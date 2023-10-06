@@ -22,7 +22,7 @@ Ou pode rodar o seguinte comando:
 pip install -r requirements.txt
 ```
 
-Além disso, este script utiliza o WebDriver do Chrome. Certifique-se de ter o [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) instalado e no seu PATH.
+Além disso, este script utiliza o WebDriver do Chrome. Certifique-se de ter o [ChromeDriver](https://sites.google.com/chromium.org/driver/) instalado e no seu PATH.
 
 ## Como usar
 
